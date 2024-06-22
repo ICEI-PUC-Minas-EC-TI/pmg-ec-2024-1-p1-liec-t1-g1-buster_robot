@@ -1,25 +1,25 @@
 # TÍTULO DO PROJETO
 
-`CAMPUS/UNIDADE`
+`PUC Minas Coração Eucarístico`
 
-`CURSO`
+`Engenharia da computação`
 
-`SEMESTRE`
+`1º semestre`
 
-`DISCIPLINA`
+`Laboratório de introdução à Engenharia da Computação`
 
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* Wander Júnior Cruz
+* Izadora
+* Daniel Nicolas Reis Guimarães
+* João
+* João Vitor Garcia Dutra
 
 ## Orientador
 
-* Nome completo do professor 1
+* Felipe Augusto Lara Soares
 
 ## Resumo
 
