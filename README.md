@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# Buster Robot
 
 `PUC Minas Coração Eucarístico`
 
@@ -14,7 +14,7 @@
 * Wander Júnior Cruz
 * Izadora
 * Daniel Nicolas Reis Guimarães
-* João
+* João Victor Lopes Ferreira
 * João Vitor Garcia Dutra
 
 ## Orientador
@@ -23,7 +23,7 @@
 
 ## Resumo
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Buster Robot é um projeto de um robô
 
 # Código (do arduino ou esp32)
 
