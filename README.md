@@ -23,7 +23,7 @@
 
 ## Resumo
 
-Buster Robot é um projeto de um robô
+Este projeto consiste na criação de dois robôs controlados por celular, cada um equipado com um balão e uma garra. O objetivo do jogo é que o controlador de cada robô utilize a garra para estourar o balão do robô adversário. A aplicação de controle foi desenvolvida utilizando o MIT App Inventor, a construção dos robôs foi realizada com a placa ESP32, e a programação dos mesmos foi feita em C++.
 
 # Código (do arduino ou esp32)
 
