@@ -2,22 +2,33 @@
 # Materiais
 
 Os materiais utilizados no projeto foram:
-- Liste os materiais usados no projeto, como Arduino/ESP, sensores, atuadores e outros.
+- 4 motores
+- 2 placas ESP32
+- 2 placas Arduino
+- 2 baterias (9 volts)
+- 1 pacote de balões
+- 1 pacote de espeto
+- 2 kits de carro
+- 2 servos
+- Fita dupla face
+- Papel panamá
+- Papel cartão laminado
+- Cola quente
+- Suporte de balão
 
 # Desenvolvimento
 
-Descreva aqui como foi o desenvolvimento do trabalho, destacando cada uma das etapas necessárias para chegar até a solução final.
+A primeira etapa de desenvolvimento foi o desenvolvimento do aplicativo. Após isso foi feito o desenvolvimento do código do carro, e a integração com o aplicativo. Por último foi feito o carro, a integração com o código e a carcaça do carro.
 
 ## Desenvolvimento do Aplicativo
 
 ### Interface
 
-Descreva o desenvolvimento das telas do aplicativo.
+O desenvolvimento das telas foi feita utilizando utilizando o MIT App Inventor, utilizando os componentes nativos fornecidos pela plataforma.
 
 ### Código
 
-Descreva o desenvolvimento do código do aplicativo.
-
+O código foi feito com programação em blocos utilizando o MIT App Inventor, com a integração com o robô feita utilizando conexão bluetooth.
 ## Desenvolvimento do Hardware
 
 ### Montagem
