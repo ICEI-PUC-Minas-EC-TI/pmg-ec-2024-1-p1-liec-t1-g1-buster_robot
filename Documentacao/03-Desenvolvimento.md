@@ -18,7 +18,7 @@ Os materiais utilizados no projeto foram:
 
 # Desenvolvimento
 
-A primeira etapa de desenvolvimento foi o desenvolvimento do aplicativo. Após isso foi feito o desenvolvimento do código do carro, e a integração com o aplicativo. Por último foi feito o carro, a integração com o código e a carcaça do carro.
+A primeira etapa foi o desenvolvimento do aplicativo. Após isso foi feito o desenvolvimento do código do carro, e a integração com o aplicativo. Por último foi feito o carro, a integração com o código e a carcaça do carro.
 
 ## Desenvolvimento do Aplicativo
 
@@ -29,6 +29,7 @@ O desenvolvimento das telas foi feita utilizando utilizando o MIT App Inventor, 
 ### Código
 
 O código foi feito com programação em blocos utilizando o MIT App Inventor, com a integração com o robô feita utilizando conexão bluetooth.
+
 ## Desenvolvimento do Hardware
 
 ### Montagem
