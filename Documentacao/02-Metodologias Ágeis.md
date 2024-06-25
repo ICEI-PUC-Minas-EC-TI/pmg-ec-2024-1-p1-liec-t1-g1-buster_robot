@@ -3,24 +3,24 @@
 
 # Metodologia
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+Utilizamos o trello para organização das tarefas. O desenvolvimento do robô foi feito em conjunto nos laboratórios fornecidos pela PUC em encontros semanais, em especial nas quarta feiras. A comunicação síncrona foi feita utilizando Discord e assíncrona utilizando o Whatsapp.
 
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
-
-Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
-- Scrum Master: Aluno 1;
-- Equipe de Desenvolvimento: Aluno 1, Aluno 2, Aluno 3;
+A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
+- Scrum Master: Wander Júnior Cruz;
+- Equipe de Desenvolvimento: Daniel Guimarães, Izadora Sousa, João Victor Lopes, João Vitor Garcia;
 
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. Cole aqui um print do quadro Kanban utilizado pelo grupo.
- 
+<img width="1174" alt="Captura de Tela 2024-06-25 às 19 53 46" src="https://github.com/ICEI-PUC-Minas-EC-TI/pmg-ec-2024-1-p1-liec-t1-g1-buster_robot/assets/43766602/da661884-d77c-4cee-a541-93ce8aa8de55">
+
 
 ### Ferramentas
 
 As ferramentas utilizadas no projeto foram:
 
-- Liste aqui as ferramentas utilizadas para desenvolvimento do projeto (como por exemplo: Arduino IDE, APP Inventor, trello e outros). Obs: não é para listar aqui os componentes utilizados.
+- MIT App Inventor
+- Arduino IDE
+- Trello
