@@ -1,4 +1,4 @@
 
 ## Instruções de utilização
 
-Assim que a primeira versão do projeto estiver disponível, deverá complementar com as instruções de utilização. Descreva como configurar o hardware/software e informações importantes para executar o projeto.
+Para utilizar o projeto, deve se ligar o robô, ligar o celular (android) no bluetooth e conectar com o aparelho "jjj". Após isso o usuário poderá controlar o robô pelo aplicativo.
