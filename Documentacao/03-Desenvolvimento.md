@@ -35,7 +35,7 @@ O código foi feito com programação em blocos utilizando o MIT App Inventor, c
 
 ### Montagem
 
-Descreva como foi o processo da montagem do projeto.
+O hardware foi feito em duas interface diferentes: para a garra, foi utilizado arduino com o servo. Para as rodas, foi utilizado um esp32, junto com as rodas e os motores. A parte externa foi feita utilizando papel panamá, papel cartão laminado e outros items.
 
 ### Desenvolvimento do Código
 
