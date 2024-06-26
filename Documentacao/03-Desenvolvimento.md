@@ -15,6 +15,7 @@ Os materiais utilizados no projeto foram:
 - Papel cartão laminado
 - Cola quente
 - 2 suportes para balão
+- Agulhas
 
 # Desenvolvimento
 
