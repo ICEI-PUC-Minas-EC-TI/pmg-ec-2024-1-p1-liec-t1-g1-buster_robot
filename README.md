@@ -12,7 +12,7 @@
 ## Integrantes
 
 * Wander Júnior Cruz
-* Izadora
+* Izadora de Sousa Carvalho
 * Daniel Nicolas Reis Guimarães
 * João Victor Lopes Ferreira
 * João Vitor Garcia Dutra
