@@ -39,7 +39,7 @@ O hardware foi feito em duas interface diferentes: para a garra, foi utilizado a
 
 ### Desenvolvimento do Código
 
-Descreva como foi o desenvolvimento do código do arduino/ESP.
+O código foi feito em dois arquivos. O primeiro pega os dados enviados pelo app e usa para andar com o hardware. O segundo foi para controlar o arduino, fazendo que o servo se movimente em um loop, para movimentar a garra.
 
 ## Comunicação entre App e Hardware
 
