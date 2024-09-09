@@ -6,8 +6,8 @@
 
 `1º semestre`
 
-`Laboratório de introdução à Engenharia da Computação`
-`Algoritmos e Estruturas de Dados I`
+`Laboratório de introdução à Engenharia da Computação`,
+`Algoritmos e Estruturas de Dados I`,
 `Introdução à Computação`
 
 
